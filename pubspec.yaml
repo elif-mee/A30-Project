@@ -11,6 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  geolocator: ^10.1.0
+  url_launcher: ^6.2.2
+  permission_handler: ^11.1.0  # optionnel pour un meilleur contrôle des permissions
   provider: ^6.0.5
   http: ^1.1.0
   english_words: ^4.0.0
